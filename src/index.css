@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+button{
+  background: #ccb;
+  color: #333;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #cbc;
+  border-radius: 5px;
+}
+.row:first-child{
+  font-weight: 600;
+  color: red;
+}
+
+.cell{
+  border: 2px solid #bbb;
+  border-radius: 3px;
+  padding: 10px;
+  min-width: 60px;
+  color: #525;
+}
